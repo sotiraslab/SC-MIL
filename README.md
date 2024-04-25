@@ -15,7 +15,10 @@ This repository contains official implementation for the paper titled "SC-MIL: S
 ![Method](figures/toy.jpg)
 
 ## Future Updates
-- [x] Release the tentative code for 2D segmentation.
+- [x] Release the tentative code for SC-MIL.
+- [ ] Release the code for the toy mnist example.
+- [ ] Release the training code for the WSI.
+- [ ] Release the precomputed features.
 
 ## Citation
 If you find our work is useful in your research, please consider raising a star  :star:  and citing:
