@@ -14,7 +14,6 @@ This repository contains official implementation for the paper titled "SC-MIL: S
 ![Method](figures/sc_module.jpg)
 
 ### Toy MNIST Example 
-
 ![Method](figures/toy.jpg)
 
 ### WSI performance
